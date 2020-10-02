@@ -19,7 +19,8 @@ This is a simple linear regression task as it involves just two variables. Data 
 What will be predicted score if a student study for 9.25 hrs in a day? 
 
 # Authors : 
-* **Ayush Bharadwaj** [Linkedin]-(https://www.linkedin.com/in/ayush-bharadwaj-812987199/) 
+
+* **Ayush Bharadwaj**  - [Linkedin](https://www.linkedin.com/in/ayush-bharadwaj-812987199/)
 
 # Acknowledgments
 
