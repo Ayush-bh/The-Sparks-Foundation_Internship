@@ -14,13 +14,16 @@ Their Vision Statement : A world of enabled and connected little minds, building
 # TASKS
 
 ## Task 2 - Exploring Supervised Machine Learning.
-In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
-This is a simple linear regression task as it involves just two variables. Data can be found at http://bit.ly/w-data.
-What will be predicted score if a student study for 9.25 hrs in a day? 
+It is regression task, in which we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
+This is a simple linear regression task as it involves just two variables. 
+Data can be found at http://bit.ly/w-data.
+Problem given - What will be the predicted score of a student,if he/she studies for 9.25 hrs in a day? 
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task1
 
 ## Task 3 - Exploring Unsupervised Machine Learning.
-From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+problem given-From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+using K means clustring method for the problem given.
+k-means clustering is a method that aims to partition n observations into k clusters, in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the clusters. It is popular for cluster analysis in data mining.
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task2
 
 
