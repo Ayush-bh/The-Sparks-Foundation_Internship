@@ -19,7 +19,7 @@ This is a simple linear regression task as it involves just two variables. Data 
 What will be predicted score if a student study for 9.25 hrs in a day? 
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task1
 
-## Task 2 - Exploring Unsupervised Machine Learning.
+## Task 3 - Exploring Unsupervised Machine Learning.
 From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task2
 
