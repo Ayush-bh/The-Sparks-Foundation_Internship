@@ -19,6 +19,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
     involves just two variables. 
     Data can be found at http://bit.ly/w-data.
 Problem given - What will be the predicted score of a student,if he/she studies for 9.25 hrs in a day?  
+
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task1
 
 ## Task 3 - Exploring Unsupervised Machine Learning.
@@ -27,6 +28,7 @@ To see the implementation check this link -https://github.com/Ayush-bh/The-Spark
     belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of 
     the clusters. It is popular for cluster analysis in data mining.
 problem given-From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task2
 
 
