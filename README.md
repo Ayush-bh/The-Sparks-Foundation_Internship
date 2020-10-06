@@ -23,7 +23,8 @@ To see the implementation check this link -https://github.com/Ayush-bh/The-Spark
 ## Task 3 - Exploring Unsupervised Machine Learning.
     problem given-From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
     using K means clustring method for the problem given.
-    k-means clustering is a method that aims to partition n observations into k clusters, in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the clusters. It is popular for cluster analysis in data mining.
+    k-means clustering is a method that aims to partition n observations into k clusters, in which each observation belongs to the cluster with the nearest mean        
+    (cluster centers or cluster centroid), serving as a prototype of the clusters. It is popular for cluster analysis in data mining.
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task2
 
 
