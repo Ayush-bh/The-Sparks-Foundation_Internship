@@ -38,4 +38,4 @@ To see the implementation check this link -https://github.com/Ayush-bh/The-Spark
 
 # Acknowledgments
 
-* Special Thanks to **The Sparks Foundation** for this Wonderful Internship Experience and Inspiration to do more.
+* Special Thanks to [**The Sparks Foundation**](https://thesparksfoundationsingapore.org/) for this Wonderful Internship Experience and Inspiration to do more.
