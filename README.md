@@ -13,7 +13,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
 
 # TASKS
 
-## Task 2 - Exploring Supervised Machine Learning.
+## Task 1 - Exploring Supervised Machine Learning.
     It is regression task, in which we will predict the percentage of marks that a student is expected to 
     score based upon the number of hours they studied.This is a simple linear regression task as it 
     involves just two variables. 
@@ -22,7 +22,7 @@ Problem given - What will be the predicted score of a student,if he/she studies 
 
 To see the implementation check this link -https://github.com/Ayush-bh/The-Sparks-Foundation_Internship/tree/main/Task1
 
-## Task 3 - Exploring Unsupervised Machine Learning.
+## Task 2 - Exploring Unsupervised Machine Learning.
     using K means clustering method for the problem given.
     k-means clustering is a method that aims to partition n observations into k clusters, in which 
     each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid),
