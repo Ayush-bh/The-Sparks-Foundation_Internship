@@ -36,6 +36,11 @@ To see the implementation check this link -https://github.com/Ayush-bh/The-Spark
 
 * **Ayush Bharadwaj**  - [Linkedin](https://www.linkedin.com/in/ayush-bharadwaj-812987199/)
 
+#Certificate 
+
+![](Sparks_completion_certificate.png)
+
+
 # Acknowledgments
 
 * Special Thanks to [**The Sparks Foundation**](https://thesparksfoundationsingapore.org/) for this Wonderful Internship Experience and Inspiration to do more.
