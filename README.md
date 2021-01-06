@@ -2,7 +2,7 @@
 
 This repository consist of the tasks given during my internship-training at The Sparks Foundation.
 
-## About The Sparks Foundation
+## About The Sparks Foundation :
 
 ![](logo_tsf.png)
 
@@ -10,7 +10,7 @@ This repository consist of the tasks given during my internship-training at The 
 
 Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
-# TASKS
+# TASKS :
 
 ## Task 1 - Exploring Supervised Machine Learning.
     It is regression task, in which we will predict the percentage of marks that a student is expected to 
@@ -39,6 +39,6 @@ To see the implementation check this link -https://github.com/Ayush-bh/The-Spark
 
 ![](Sparks_completion_certificate.png)
 
-# Acknowledgments
+# Acknowledgment :
 
 * Special Thanks to [**The Sparks Foundation**](https://thesparksfoundationsingapore.org/) for this Wonderful Internship Experience and Inspiration to do more.
