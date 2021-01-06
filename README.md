@@ -4,7 +4,7 @@ This repository consist of the tasks given during my internship-training at The 
 
 ## About The Sparks Foundation :
 
-![](logo_tsf.png)
+![](Logo/logo_tsf.png)
 
 [The Sparks Foundation](https://thesparksfoundationsingapore.org/) mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
 
@@ -37,7 +37,7 @@ To see the implementation check this link -https://github.com/Ayush-bh/The-Spark
 
 # Certificate :
 
-![](Sparks_completion_certificate.png)
+![](Logo/Sparks_completion_certificate.png
 
 # Acknowledgment :
 
