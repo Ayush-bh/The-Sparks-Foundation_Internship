@@ -36,7 +36,7 @@ To see the implementation check this link -https://github.com/Ayush-bh/The-Spark
 
 * **Ayush Bharadwaj**  - [Linkedin](https://www.linkedin.com/in/ayush-bharadwaj-812987199/)
 
-#Certificate 
+# Certificate 
 
 ![](Sparks_completion_certificate.png)
 
